@@ -44,17 +44,17 @@ const Home = () => {
                 <h2 className="text-3xl font-semibold text-center text-red-500 mb-8">What We Offer</h2>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                     <div className="bg-gray-800 p-6 rounded-lg shadow-md text-center">
-                        <img src="https://via.placeholder.com/150?text=Career+Paths" alt="Career Paths" className="mx-auto mb-4" />
+                        <img src="https://res.cloudinary.com/dnbutfdy7/image/upload/v1728402329/lms/621c39fb9a4d6d2693a5faf8_Screen_Shot_2022-02-18_at_4.14.00_PM_-_Maggie_Burnetti_rh2cqj.png" alt="Career Paths" className="mx-auto mb-4" />
                         <h3 className="text-xl font-bold text-white mb-2">Explore Career Paths</h3>
                         <p className="text-gray-400">Discover different career options and choose the one that fits your passion and skills.</p>
                     </div>
                     <div className="bg-gray-800 p-6 rounded-lg shadow-md text-center">
-                        <img src="https://via.placeholder.com/150?text=Mentorship" alt="Mentorship" className="mx-auto mb-4" />
+                        <img src="https://res.cloudinary.com/dnbutfdy7/image/upload/v1728402325/lms/images_jo9p9b.png" alt="Mentorship" className="mx-auto mb-4" />
                         <h3 className="text-xl font-bold text-white mb-2">Get Mentorship</h3>
                         <p className="text-gray-400">Connect with experienced professionals who can guide you towards success.</p>
                     </div>
                     <div className="bg-gray-800 p-6 rounded-lg shadow-md text-center">
-                        <img src="https://via.placeholder.com/150?text=Resources" alt="Resources" className="mx-auto mb-4" />
+                        <img src="https://res.cloudinary.com/dnbutfdy7/image/upload/v1728402325/lms/images_hpbsa4.jpg" alt="Resources" className="mx-auto mb-4" />
                         <h3 className="text-xl font-bold text-white mb-2">Access Resources</h3>
                         <p className="text-gray-400">Browse our curated list of resources to help you excel in your chosen field.</p>
                     </div>
